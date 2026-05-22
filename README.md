@@ -1,4 +1,4 @@
 # myfist-demo
 This is  my first Git Repository .
 <br>
-Author - Manjunath (Shreya love)
+Author - Manjunath (Madar)
